@@ -8,7 +8,7 @@ authors = ["Dmitriy zub <dimitryzub@gmail.com>"]
 python = "^3.8"
 parsel = "^1.6.0"
 bs4 = "^0.0.1"
-requests = "^2.27.1"
+requests = "^2.31.0"
 playwright = "^1.22.0"
 pandas = "^1.4.2"
 
